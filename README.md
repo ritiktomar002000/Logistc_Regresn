@@ -43,3 +43,39 @@ The goal of this project was to understand the mathematical foundations of machi
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the repository
+git clone https://github.com/yourusername/Dog-NonDog-Logistic-Regression.git
+
+cd Dog-NonDog-Logistic-Regression
+
+
+### 2️⃣ Install dependencies
+
+
+pip install -r requirements.txt
+
+
+### 3️⃣ Run the script
+
+
+python logistic_regression.py
+
+
+---
+
+## 📊 Results
+- High training accuracy
+- Good generalization on test data
+- Demonstrates effectiveness of linear classifiers for binary image tasks
+
+---
+
+## 📈 Key Learnings
+- Mathematical intuition behind logistic regression
+- Vectorized implementations for performance
+- Gradient descent convergence behavior
+- Importance of feature scaling
+
+---
+
+## 👨‍💻 Author
+**Ritik Tomar**  
